@@ -18,30 +18,14 @@ We apply persistent homology to analyze cyclonic-anticyclonic interactions in No
 ## Repository Structure
 
 ```
-├── data/
-│   ├── raw/                    # Raw ERA5 SLP data
-│   ├── processed/              # Processed SLP anomalies
-│   └── climate_indices/        # Climate index data (NAO, AMO, etc.)
-├── src/
-│   ├── data_processing/        # Data preprocessing scripts
-│   ├── tda_analysis/           # Persistent homology computations
-│   ├── tracking/               # Feature tracking algorithms
-│   ├── visualization/          # Plotting and visualization
-│   └── correlation_analysis/   # Climate index correlations
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_persistent_homology.ipynb
-│   ├── 03_feature_tracking.ipynb
-│   ├── 04_seasonal_analysis.ipynb
-│   └── 05_climate_correlations.ipynb
-├── results/
-│   ├── figures/                # Generated figures
-│   ├── persistence_diagrams/   # Computed persistence diagrams
-│   └── statistics/             # Summary statistics
-├── tests/                      # Unit tests
-├── requirements.txt            # Python dependencies
-├── environment.yml             # Conda environment file
-└── README.md                   # This file
+topological_interaction_cyclone_and_anticyclone/
+├── Code/
+│   ├── Data/                           # Data files and datasets
+│   ├── figures/                        # Generated figures and plots
+│   ├── correlation_analysis.pynb.ipynb # Climate index correlation analysis
+│   ├── exploratory_data_analysis.ipynb # Initial data exploration and preprocessing
+│   └── feature_tracking_analysis.ipynb # Topological feature tracking analysis
+└── README.md                          # This file
 ```
 
 ## Installation
