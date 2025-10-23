@@ -15,10 +15,6 @@ We apply persistent homology to analyze cyclonic-anticyclonic interactions in No
 - **Seasonal Analysis**: Examine seasonal patterns in cyclonic and anticyclonic structures
 - **Trajectory Analysis**: Track long-lived atmospheric features over multiple days/weeks
 
-## Example
-
-https://github.com/user-attachments/assets/92f86881-1c9d-4516-9beb-64ed97da432a
-
 
 ## Repository Structure
 
