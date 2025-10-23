@@ -1,4 +1,3 @@
-
 # Topological Structure of the Cyclonic-Anticyclonic Interactions
 
 This repository contains the code and analysis pipeline for the research paper "Topological Structure of the Cyclonic-Anticyclonic Interactions" by Himanshu Yadav, Gisela D. Charó, and Davide Faranda.
